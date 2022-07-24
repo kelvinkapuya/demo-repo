@@ -7,3 +7,8 @@ And also I love coding!!
 ## Its Yo Boy
 
 I just want to say hello
+
+## Local development
+
+1. Open index.html in your browser
+2. You what it is
